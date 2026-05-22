@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("ghbdtn"),alert("ghbdtn"),console.log("ghbdtn")})();
