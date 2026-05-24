@@ -4,7 +4,7 @@ import services from './modules/services.js'
 import timer from "./modules/timer.js";
 import formValidator from "./modules/formValidator.js";
 import sertificatesModal from "./modules/certs.js";
-
+import smoothScroll from "./modules/smoothScroll.js";
 
 
 modal();
@@ -13,3 +13,4 @@ services();
 timer();
 formValidator();
 sertificatesModal();
+smoothScroll();
