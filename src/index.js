@@ -5,7 +5,7 @@ import timer from "./modules/timer.js";
 import formValidator from "./modules/formValidator.js";
 import sertificatesModal from "./modules/certs.js";
 import smoothScroll from "./modules/smoothScroll.js";
-
+import calc from "./modules/calc.js";
 
 modal();
 initSlider();
@@ -14,3 +14,5 @@ timer();
 formValidator();
 sertificatesModal();
 smoothScroll();
+calc();
+
